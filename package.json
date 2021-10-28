@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "cream-brule",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://AndrewMishchenko001.github.io/cream-brule",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /cream-brule/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AndrewMishchenko001/cream-brule.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Andrew Mishchenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/AndrewMishchenko001/cream-brule.git/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
